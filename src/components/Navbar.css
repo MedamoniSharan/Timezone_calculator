@@ -1,0 +1,37 @@
+li {
+    font-size: 23px;
+    transition: text-decoration 1s;
+    /* Adding transition for smooth effect */
+}
+/* Navbar.css */
+
+.home-navbar {
+    background-color: none;
+    /* Example background color for home */
+}
+
+.other-navbar {
+    background-color: black;
+    /* Example background color for other pages */
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: white;
+}
+
+
+
+/* Hover effect */
+li:hover {
+    text-decoration: underline;
+    /* Underline on hover */
+    text-decoration-color: green;
+    /* Pink color for underline */
+
+
+}
+
+.navbar-brand-container {
+    margin-right: 40px;
+    /* Adjust the margin as needed */
+}

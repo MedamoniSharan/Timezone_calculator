@@ -1,0 +1,9 @@
+.list-group-item:hover {
+    background-color: #B7F6FF;
+    /* Change the border color as needed */
+
+}
+
+.close-button:hover {
+    color: red;
+}
