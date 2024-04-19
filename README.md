@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # Timezone_calculator
-#[live demo](https://timezone-calculator-897b.vercel.app/)
+# [live demo](https://timezone-calculator-897b.vercel.app/)
 
 =======
 # Getting Started with Create React App
