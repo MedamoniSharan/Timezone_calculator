@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Timezone_calculator
 # [live demo](https://timezone-calculator-897b.vercel.app/)
 
